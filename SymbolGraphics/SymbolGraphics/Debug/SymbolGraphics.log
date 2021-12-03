@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (SymbolGraphics.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.cpp
+C:\Users\nullptr\source\repos\SymbolGraphics\SymbolGraphics\Render.h(104,33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\nullptr\source\repos\SymbolGraphics\SymbolGraphics\Render.h(108,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  SymbolGraphics.vcxproj -> C:\Users\nullptr\source\repos\SymbolGraphics\Debug\ASCIIGraphics.exe
